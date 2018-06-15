@@ -55,14 +55,14 @@ This package contains class that has data from OpenWeather API and transfers it 
 - class WeatherForecastData
 
 ## Progress Checklist
-- [] MainPage Package
-- [] CityCurrentCondition Package
-- [] HourlyPrediction Package
-- [] DailyPrediction Package
-- [] ModelPackage
-- [] MainPage Package JUnits
-- [] CityCurrentCondition Package JUnits
-- [] HourlyPrediction Package JUnits
-- [] DailyPrediction Package JUnits
-- [] ModelPackage JUnits
-- [] JDepend
+- [ ] MainPage Package
+- [ ] CityCurrentCondition Package
+- [ ] HourlyPrediction Package
+- [ ] DailyPrediction Package
+- [ ] ModelPackage
+- [ ] MainPage Package JUnits
+- [ ] CityCurrentCondition Package JUnits
+- [ ] HourlyPrediction Package JUnits
+- [ ] DailyPrediction Package JUnits
+- [ ] ModelPackage JUnits
+- [ ] JDepend
